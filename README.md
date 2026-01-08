@@ -1,8 +1,7 @@
 
 # SMALL AREA ESTIMATION USING SPATIO-TEMPORAL \newline M-QUANTILE MODELS
-\begin{center}
-  \textbf{GUIDE FOR USERS - APPLICATION TO REAL DATA}
-\end{center}
+
+GUIDE FOR USERS - APPLICATION TO REAL DATA
 
 ### María Bugallo¹, Domingo Morales¹, Nicola Salvati², Francesco Schirripa-Spagnolo²
 
