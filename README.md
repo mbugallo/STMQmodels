@@ -1,4 +1,3 @@
-\justifying
 
 # SMALL AREA ESTIMATION USING SPATIO-TEMPORAL \newline M-QUANTILE MODELS
 \begin{center}
